@@ -9,5 +9,6 @@ MATLAB function that calculates the Phase Locking Value for Hyperscanning studie
 
 The PLV is a measure of brain synchrony, here adapted for hyperscanning studies where you calculate the brain synchrony between each channel of the brains of 2 different people.  
 
-*Reference:*  
+*References:*  
 Lachaux, J. P., Rodriguez, E., Martinerie, J., & Varela, F. J. (1999). Measuring phase synchrony in brain signals. Human brain mapping, 8(4), 194-208. 
+[Mike X Cohen's phase synchrony lectures](https://www.youtube.com/watch?v=ardi0hO6lOU&list=PLn0OLiymPak1wp4wMQ7tbYrtyFUatMVJs)
